@@ -18,4 +18,4 @@ is in the middle of the page and will finish when the middle of the line is in
 the middle of the page.
 
 Check out my
-(blogpost)[http://www.thejoemorgan.com/blog/2015/09/03/creating-scrolling-self-drawing-lines/] for more:
+[blogpost](http://www.thejoemorgan.com/blog/2015/09/03/creating-scrolling-self-drawing-lines/) for more:
